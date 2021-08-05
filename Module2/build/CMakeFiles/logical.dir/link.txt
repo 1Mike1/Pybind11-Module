@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -flto -shared  -o logical.cpython-38-x86_64-linux-gnu.so CMakeFiles/logical.dir/main.cpp.o 

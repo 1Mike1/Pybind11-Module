@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -flto -shared  -o Number.cpython-38-x86_64-linux-gnu.so CMakeFiles/Number.dir/main.cpp.o 
