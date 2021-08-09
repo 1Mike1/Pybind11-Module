@@ -3,7 +3,7 @@ Pybind11 allow us integrate the c++ code into python coding.
 
 # Steps:
 1.Clone pybind11 in project root directory.<br>
-  <p><b>- git clone https://github.com/pybind/pybind11.git</b></p><br>
+  <b>- git clone https://github.com/pybind/pybind11.git</b><br>
 2.Create "CmakeLists.txt" file<br>
 3.Create "your_cpp_file_name.cpp"<br>
 4.Create "build" directory<br>
